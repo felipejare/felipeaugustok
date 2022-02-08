@@ -1,0 +1,147 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#reco-baixo {
+    margin-top: 60px;
+    
+}
+
+#reco-alto  {
+    margin-top: 60px;
+}
+
+#titulo {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#nv-bar {
+    background-color: black;
+    border: solid 2px white;
+    border-radius: 5px;
+    display: block;
+}
+
+#img-carro {
+    margin-top: 60px;
+    background-color: #0f0f0f;
+    border: solid #0f0f0f 5px;    
+}
+
+#recomendacao {
+    margin-top: -60px;
+    margin-left: 150px;
+    background-color: #0f0f0f;
+}
+
+#img-reco div img {
+    border: solid white 2px;
+}
+
+#img-reco div img:hover {
+    border: solid #ff2819 2px;
+}
+
+#menu-dop {
+    background-color: black;
+    color: white;
+    display: block;
+}
+
+#menu-item {
+    background-color: #ff2819;
+    color: white;
+}
+
+#menu-dop:hover {
+    color: #ff2819;
+    background: black;
+}
+
+#pe {
+    margin-top: 80px;
+    background-color: #0f0f0f;
+    text-align: center;
+    height: 100px;
+    border: solid #0f0f0f 30px;
+}
+
+#pe-jogo {
+    margin-top: 100px;
+    background-color: #0f0f0f;
+    text-align: center;
+    height: 100px;
+    border: solid #0f0f0f 30px;
+}
+
+#text-lanc {
+    margin-top: -150px;
+    margin-left: 350px;
+}
+
+#img-lanc {
+    margin-top: 15px;
+    border: solid white 2px;
+} 
+
+#container-lanc {
+    background-color: #0f0f0f;
+    margin-top: 60px; 
+    height: 200px;
+}
+
+#cont-carro-jogo {
+    margin-top: 60px;
+    margin-right: 550px;
+    background-color: #0f0f0f;
+}
+
+#text-jogo {
+    margin-top: -367px;
+    margin-left: 810px;
+    width: 500px;
+    background-color: #0f0f0f;
+    height: 365px;
+}
+
+#text-wiki{
+
+    margin-top: 60px;
+
+    background-color: #0f0f0f;
+
+
+
+}
+
+#form-login {
+    background-color: #0f0f0f;
+    margin-top: 150px;
+    margin-left: 400px;
+    width: 500px;
+    border-radius: 10px;
+    border: solid #0f0f0f 20px;
+}
+
+#form-login input { 
+    margin-top: 20px;
+}
+
+#form-login button { 
+    border-radius: 10px;
+    width: 80px;
+    margin-top: 20px;
+    background-color: #ff2819;
+    border: solid #ff2819 1px;
+}
+
+#container-lanc:hover {
+    color: #ff2819;
+}
+
+#container-lanc img:hover {
+    border: solid #ff2819 2px;
+}
+
